@@ -1,4 +1,4 @@
-# PlanetSide-2 Packet Sniffer and Exploit Tool
+# PlanetSide ZERO
 
 ## Overview
 This tool:
