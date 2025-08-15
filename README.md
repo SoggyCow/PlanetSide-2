@@ -10,7 +10,7 @@ This tool:
 - **Packet Sniffing**: Captures and analyzes network packets to extract user IPs.
 - **Voice Communication Exploitation**: Retrieves serialized UUIDs linked to user accounts from voice connections.
 - **Server Exploitation**: Accesses sensitive account data via server-side vulnerabilities.
-- **Resubscription**: Forces a user connected in squad to renew their DayBreak subscription.
+- **Resubscription**: Forces a user connected in squad to renew their DayBreak subscription using 0x-- server vulnerability.
 
 ## Prerequisites
 - Python 3.8+
