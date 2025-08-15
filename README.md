@@ -40,6 +40,3 @@ This tool:
    python server_exploit.py --target <server_ip> --port 8080
    ```
 3. Review extracted data in the `output/` folder.
-
-## Footer
-© 2025 GitHub, Inc.
