@@ -14,5 +14,5 @@ This tool:
 ## Prerequisites
 - Python 3.8+
 - Libraries: `scapy`, `requests`, `pyshark`
-- A controlled testing environment (e.g., private Planetside 2 server)
+- PlanetSide 2 running and connected to a squad using voice commuications.
 - Knowledge of network protocols, UUID serialization, and voice communication systems
