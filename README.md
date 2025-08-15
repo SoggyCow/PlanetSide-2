@@ -4,7 +4,7 @@
 This tool:
 - Intercepts network packets in Planetside 2 to capture user IP addresses.
 - Exploits server vulnerabilities to access account details from serialized UUIDs obtained using voice communication connections.
-- Accesses and reads database SQL data via exploit 0x--.
+- Accesses and reads database SQL data via exploit 0x-- from VoIP communication login packets.
 
 ## Features
 - **Packet Sniffing**: Captures and analyzes network packets to extract user IPs.
